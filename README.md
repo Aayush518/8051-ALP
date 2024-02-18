@@ -1,6 +1,4 @@
-Sure, here's the updated README.md file:
 
-```markdown
 # 8051 Microcontroller Programs Repository
 
 Welcome to the 8051 Microcontroller Programs Repository! This repository contains various assembly language programs for the 8051 microcontroller. Below are instructions on how to simulate these programs using EdSim51.
